@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012325708677",
+    "project_id": "suwa-arana-35d87",
+    "storage_bucket": "suwa-arana-35d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012325708677:android:7037381d6134b400474aec",
+        "android_client_info": {
+          "package_name": "com.example.suwaarana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012325708677-fn8sl8keaa24fd5nvhis2jdh1ak7lr6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkxPnSpoMSOoKYVlEypAnzKZMUirKNq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012325708677-fn8sl8keaa24fd5nvhis2jdh1ak7lr6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
